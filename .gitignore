@@ -5,6 +5,7 @@ images/archive/
 notebooks/.ipynb_checkpoints/
 notebooks/archive/
 notebooks/Exercises/archive/
+notebooks/Exercises/answers/
 
 # data
 data/raw/
