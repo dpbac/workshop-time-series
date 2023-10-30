@@ -23,35 +23,35 @@ Furthermore, during this session we present some real datasets and some challeng
 
 In the pratical examples we used the following data:
 
-1. Data obtained from [Google Trends](https://trends.google.com/trends/). This data can be found [here](https://github.com/dpbac/time-series/tree/master/data/google_trends).
+1. Data obtained from [Google Trends](https://trends.google.com/trends/). This data can be found [here](https://github.com/dpbac/workshop-time-series/tree/master/data/google_trends).
 
-2. The data referent to search of the word `diet` in USA was expanded and can be found [here](https://github.com/dpbac/time-series/tree/master//data/processed/diet_USA_2016_2023.csv).
+2. The data referent to search of the word `diet` in USA was expanded and can be found [here](https://github.com/dpbac/workshop-time-series/tree/master/data/processed/diet_USA_2016_2023.csv).
 
-3. [global temperature dataset time series](https://datahub.io/core/global-temp#data). This dataset includes global monthly mean temperature anomalies in degrees Celsius from 1880 to the present. Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). This data can be found [here](https://github.com/dpbac/time-series/tree/master/data/monthly_csv.csv).
+3. [global temperature dataset time series](https://datahub.io/core/global-temp#data). This dataset includes global monthly mean temperature anomalies in degrees Celsius from 1880 to the present. Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). This data can be found [here](https://github.com/dpbac/workshop-time-series/tree/master/data/monthly_csv.csv).
 
 4. Data from Kaggle's competition [**Store Item Demand Forecasting Challenge**](https://www.kaggle.com/c/demand-forecasting-kernels-only) which consists of 5 years of store-item sales data split in a training dataset (train.csv) and a test dataset (test.csv). 
 
-More specifically, in our examples, we used a part of this data that can be found [here](https://github.com/dpbac/time-series/tree/master/data/processed).
+More specifically, in our examples, we used a part of this data that can be found [here](https://github.com/dpbac/workshop-time-series/tree/master/data/processed).
 
 ## Material workshop
 
-* Workshop presentation: [time_series_workshop_Fontys_nj2023.pptx](https://github.com/dpbac/time-series/tree/master/docs/time_series_workshop_Fontys_nj2023.pptx)
-* Exercises covered during workshop and answers of those can be found at [notebooks/Exercises](https://github.com/dpbac/time-series/tree/master/notebooks/Exercises)
+* Workshop presentation: [time_series_workshop_Fontys_nj2023.pptx](https://github.com/dpbac/workshop-time-series/tree/master/docs/time_series_workshop_Fontys_nj2023.pptx)
+* Exercises covered during workshop and answers of those can be found at [notebooks/Exercises](https://github.com/dpbac/workshop-time-series/tree/master/notebooks/Exercises)
 
 The following notebooks present more details about what we covered together.
 
-In **[01-Intro_time_series_tutorial_v220423.ipynb](https://github.com/dpbac/time-series/tree/master/notebooks/01-Intro_time_series_tutorial_v301023.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
+In **[01-Intro_time_series_tutorial_v301023.ipynb](https://github.com/dpbac/workshop-time-series/blob/master/notebooks/01-Intro_time_series_tutorial_v301023.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
 
-Next, in **[02-Forecasting_with_SARIMAX_v220423.ipynb](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/02-Forecasting_with_SARIMAX_v301023.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
+Next, in **[02-Forecasting_with_SARIMAX_v301023.ipynb](https://github.com/dpbac/workshop-time-series/blob/master/notebooks/02-Forecasting_with_SARIMAX_v301023.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
 
-In the last notebook, **[03-Forecasting_with_Facebook_Prophet_v220423.ipynb](https://github.com/dpbac/time-series/tree/master/notebooks/03-Forecasting_with_Facebook_Prophet_v301023.ipynb)**, we introduce Facebook Prophet. We compare it with other models such as SARIMAX and apply it to the same dataset. We finalize by comparing the performance of all models obtained (SARIMA and Prophet models).
+In the last notebook, **[03-Forecasting_with_Facebook_Prophet_v301023.ipynb](https://github.com/dpbac/workshop-time-series/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet_v301023.ipynb)**, we introduce Facebook Prophet. We compare it with other models such as SARIMAX and apply it to the same dataset. We finalize by comparing the performance of all models obtained (SARIMA and Prophet models).
 
  
 ## Pre-requesits
 
 :white_check_mark: Knowledge of Python
 
-:white_check_mark: Dowload data in [data/google_trends](https://github.com/dpbac/time-series/tree/master/data/google_trends) and in [data/processed](https://github.com/dpbac/time-series/tree/master/data/processed)
+:white_check_mark: Dowload data in [data/google_trends](https://github.com/dpbac/workshop-time-series/tree/master/data/google_trends) and in [data/processed](https://github.com/dpbac/workshop-time-series/tree/master/data/processed)
 
 :white_check_mark: The following are the most important libraries we will be using and the versions that were used. Be sure you have them running:
 
