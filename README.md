@@ -1,7 +1,6 @@
 # :chart_with_upwards_trend: Introduction to Time Series Forecasting
 
-![](https://github.com/dpbac/time-series/tree/master/images/jon-tyson-FlHdnPO6dlw-unsplash.jpg)
-![](../../images/jon-tyson-FlHdnPO6dlw-unsplash.jpg)
+![](https://github.com/dpbac/workshop-time-series/blob/master/images/jon-tyson-FlHdnPO6dlw-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/brown-and-white-clocks-FlHdnPO6dlw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 This repository contains support material used during workshop Introduction to Time Series Forecasting to AI [FontysICT](https://www.fontys.nl/en/About-Fontys/Fontys-ICT.htm) students.
