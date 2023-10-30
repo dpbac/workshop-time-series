@@ -9,6 +9,8 @@ data/processed/results_arima.csv
 data/processed/banana_avg_price.csv
 Example_prophet/
 
+model/
+
 mydocs/
 
 requirements_v170423.txt
