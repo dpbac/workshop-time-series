@@ -4,7 +4,7 @@
 ![](../../images/jon-tyson-FlHdnPO6dlw-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/brown-and-white-clocks-FlHdnPO6dlw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-This repository contains support material used during workshop Introduction to Time Series Forecasting to AI [FontysICT] (https://www.fontys.nl/en/About-Fontys/Fontys-ICT.htm) students.
+This repository contains support material used during workshop Introduction to Time Series Forecasting to AI [FontysICT](https://www.fontys.nl/en/About-Fontys/Fontys-ICT.htm) students.
 
 During these hands-on session students learn some some basics about time series and SARIMAX and Facebook Prophet models. We will explore topics such as:
 
